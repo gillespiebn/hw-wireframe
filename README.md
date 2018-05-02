@@ -1,3 +1,2 @@
-# hw-wireframe
-'Easier' hw
-.....
+#Wireframe
+'Practicing a basic wireframe
